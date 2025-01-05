@@ -74,6 +74,7 @@
   display: flex;
   border: 2px solid black;
   transition: all 700ms ease-in;
+  z-index: 100;
 }
 #modal {
   display: none;
