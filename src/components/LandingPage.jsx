@@ -287,7 +287,7 @@ function LandingPage() {
                 type="text"
                 className="input"
                 name="user_name"
-                autoFocus
+                autoFocus={true}
                 required={true}
               />
             </div>
