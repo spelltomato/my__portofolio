@@ -23,6 +23,11 @@
   line-height: 2;
   max-width: 450px;
 }
+.quote {
+  font-style: italic;
+  /* padding-top: 12px; */
+}
+
 .social__list {
   margin-top: 16px;
   display: flex;

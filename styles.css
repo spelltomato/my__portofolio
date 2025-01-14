@@ -133,6 +133,19 @@ a {
 .dark-theme .scroll__icon:after {
   background-color: white;
 }
+.dark-theme .quote {
+  color: purple;
+}
+.dark-theme .quote__author {
+  color: purple;
+}
+.quote__author {
+  font-weight: bold;
+}
+.quote,
+.quote__author {
+  text-align: center;
+}
 
 /* SHAPES ANIMATIONS */
 .shape {

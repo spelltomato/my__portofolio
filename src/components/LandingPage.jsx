@@ -119,6 +119,8 @@ function LandingPage() {
               user experiences. <br></br> Here's a bit{" "}
               <strong className="orange"> about me.</strong>
             </p>
+            <p className="quote">“Work with intelligence, live with purity” </p>{" "}
+            <p className="quote__author"> – Hiraben Modi</p>
             <div className="social__list">
               <a
                 title="linkedin profile"
