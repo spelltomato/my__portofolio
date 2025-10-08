@@ -114,9 +114,10 @@ function LandingPage() {
             </h1>
             <p className="header__para">
               I'm a{" "}
-              <strong className="orange"> Frontend Software Engineer</strong>{" "}
-              with a strong passion for building web applications with great
-              user experiences. <br></br> Here's a bit{" "}
+              <strong className="orange"> Fullstack Software Engineer</strong>{" "}
+              with a strong focus on Frontend development. I have deep passion
+              for building web applications with great user experiences.{" "}
+              <br></br> Here's a bit{" "}
               <strong className="orange"> about me.</strong>
             </p>
             <p className="quote">“Work with intelligence, live with purity” </p>{" "}

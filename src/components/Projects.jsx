@@ -1,6 +1,6 @@
 import React from "react";
 import "./projects.css";
-import resumeGod from "../assets/resumeGod.png";
+import figureJobLanding from "../assets/figureJobLanding.png";
 import movie from "../assets/movie.png";
 import libraryCover from "../assets/libraryCover.png";
 
@@ -17,8 +17,8 @@ function Projects() {
               <li className="project" id="project">
                 <div className="project__wrapper">
                   <img
-                    src={resumeGod}
-                    alt="resume God mockup img"
+                    src={figureJobLanding}
+                    alt="figureJobLanding mockup img"
                     className="project__img"
                   />
                   <div className="project__wrapper--background"></div>
@@ -27,7 +27,7 @@ function Projects() {
                     id="project__description"
                   >
                     <h3 className="project__description--title">
-                      Ai powered resume builder - Resume God
+                      Ai powered resume builder - 6FigureJob.ai
                     </h3>
                     <h4 className="project__description--sub-title">
                       Html, CSS, JavaScript, ReactJs, OpenAi api, Node and
@@ -41,7 +41,7 @@ function Projects() {
                     <div className="projects__description--links">
                       <a
                         target="_blank"
-                        href="https://resumegodai-two.vercel.app/"
+                        href="https://6figurejob.ai/"
                         className="project__description--link"
                       >
                         <i

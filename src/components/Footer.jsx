@@ -1,7 +1,7 @@
 import React from "react";
 import "./footer.css";
 import scott__logo from "../assets/scott.svg";
-import resume from "../assets/Thierno_Dialo__Resume.pdf";
+import resume from "../assets/Scott_TDialo__Resume.pdf";
 
 function Footer() {
   return (
