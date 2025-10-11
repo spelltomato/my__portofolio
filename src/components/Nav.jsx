@@ -49,7 +49,7 @@ function Nav() {
       <nav className="nav__wrapper">
         <div className="name__logo--wrapper">
           <a href="#" alt="Name logo" className="name__logo">
-            Thierno S. Dialo
+            Scott T Dialo
           </a>
         </div>
         <ul className="nav__link--list">

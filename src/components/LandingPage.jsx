@@ -110,7 +110,7 @@ function LandingPage() {
           <div className="header__content">
             <h1 className="title">Hey</h1>
             <h1 className="title title__secondary">
-              <strong className="orange"> I'm Thierno.</strong>
+              <strong className="orange"> I'm Scott.</strong>
             </h1>
             <p className="header__para">
               I'm a{" "}
